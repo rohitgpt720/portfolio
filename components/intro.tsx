@@ -92,7 +92,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none hover:bg-white/70 transition cursor-pointer borderBlack dark:bg-white/10 hover:dark:bg-white/20"
-          href="https://drive.google.com/file/d/1e8A3tZv6dgW3qaetqQDqaV8Y7LuKIhme/view?usp=sharing"
+          href="https://drive.google.com/file/d/1Kh_q03sxEYiWJoUyrbLS20K7X2uWmVzW/view?usp=sharing"
           target="_blank"
           download
         >
