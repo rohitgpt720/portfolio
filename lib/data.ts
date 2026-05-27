@@ -77,8 +77,8 @@ export const projectsData = [
   {
     title: "Servd",
     description:
-      "Built a full-stack AI recipe platform featuring intelligent meal generation, smart pantry tracking, and Stripe subscription billing.",
-    tags: ["Next.js", "Tailwind CSS","Supabase", "Stripe", "Typescript"],
+      "A full-stack AI recipe platform featuring intelligent meal/recipe generation and smart pantry tracking.",
+    tags: ["Next.js", "Tailwind CSS","Strapi", "PostgreSQL(Neon)", "Gemini/OpenAI"],
     imageUrl: servd,
     liveDemoUrl: "https://servd-omega.vercel.app/",
     githubRepositoryUrl: "https://github.com/rohitgpt720/servd",
