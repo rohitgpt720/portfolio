@@ -65,7 +65,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Rohit.</span> I'm a{" "}
         <span className="font-bold">front-end developer</span> with{" "}
-        <span className="font-bold">3 years</span> of experience. I enjoy
+        <span className="font-bold">4+ years</span> of experience. I enjoy
         building <span className="italic">sites & apps</span>. My focus is{" "}
         <span className="underline">React (Next.js)</span>.
       </motion.h1>
@@ -92,7 +92,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none hover:bg-white/70 transition cursor-pointer borderBlack dark:bg-white/10 hover:dark:bg-white/20"
-          href="https://drive.google.com/file/d/1Kh_q03sxEYiWJoUyrbLS20K7X2uWmVzW/view?usp=sharing"
+          href="https://drive.google.com/file/d/1mFt5IzGCVQ4kmi7wAaX8wefP7CSjwoWu/view?usp=sharing"
           target="_blank"
           download
         >
