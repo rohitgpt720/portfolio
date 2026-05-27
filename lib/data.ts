@@ -128,8 +128,6 @@ export const skillsData = [
   "CSS",
   "JavaScript",
   "TypeScript",
-  "JavaScript",
-  "TypeScript",
   "Java",
   "React.js",
   "Next.js",
