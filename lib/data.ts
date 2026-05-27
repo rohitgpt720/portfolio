@@ -6,6 +6,7 @@ import spotifyClone from "@/public/spotifyClone.png";
 import scribbleShack from "@/public/scribbleShack.png"
 import animeHub from "@/public/animeHub.png"
 import netflixClone from "@/public/netflixClone.png"
+import servd from "@/public/servd.png"
 
 export const links = [
   {
@@ -56,15 +57,32 @@ export const experiencesData = [
     title: "Front-End Developer",
     location: "Delhi, India",
     description:
-      "I worked as a front-end developer for 3 years in Tata Consultancy Service where I was a part of an internal project of Johnson \& Johnson (JNJ).",
+      "I spent over 3 years working on a large-scale internal research platform for Johnson & Johnson (JNJ). I led a team of 6 engineers, built reusable UI components, and optimized REST APIs and page load speeds to help the application scale efficiently.",
     icon: React.createElement(CgWorkAlt),
-    date: "2021 - Present",
+    date: "2021 - 2024",
     tags: ["Angular JS", "Springboot", "Oracle SQL Developer", "Git"]
   },
-  
+  {
+    title: "Front-End Developer",
+    location: "Delhi, India",
+    description:
+      "I currently work as a frontend engineer for National Australia Bank, building a white-label platform and integrating multiple mini-app modules. I focus on optimizing performance using dynamic imports, setting up automated security checks, and monitoring production health.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - Present",
+    tags: ["React JS", "Node JS", "TypeScript", "Microfrontends", "Git", "SPLUNK", "CI/CD"]
+  },
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Servd",
+    description:
+      "Built a full-stack AI recipe platform featuring intelligent meal generation, smart pantry tracking, and Stripe subscription billing.",
+    tags: ["Next.js", "Tailwind CSS","Supabase", "Stripe", "Typescript"],
+    imageUrl: servd,
+    liveDemoUrl: "https://servd-omega.vercel.app/",
+    githubRepositoryUrl: "https://github.com/rohitgpt720/servd",
+  },
   {
     title: "Spotify Clone",
     description:
